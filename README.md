@@ -1,3 +1,5 @@
-# CSharp Learning
+# C# Learning
 
-This repository documents my journey of learning C# from the basics.
+🇻🇳 Kho lưu trữ các bài tập C# trong quá trình học.
+
+🇬🇧 A collection of C# exercises during my learning journey.
