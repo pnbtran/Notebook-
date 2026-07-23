@@ -10,8 +10,11 @@
     - Ghi lại lỗi để debug.
 
 [x] Dùng `try-catch` để bắt lỗi chia cho 0 (DivideByZeroException).
+
 [x] Bắt nhiều loại lỗi với nhiều khối catch.
+
 [x] Dùng khối finally để dọn dẹp (luôn chạy).
+
 [x] Phân biệt khi nào nên try-catch vs kiểm tra điều kiện trước.
 
 - **Kết luận:**: `try { việc có thể lỗi } catch (LoạiLỗi) { xử lý } finally { luôn chạy }` - tấm lưới an toàn giúp chương trình không “đột tử”.
